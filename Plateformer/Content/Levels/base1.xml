@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<LevelData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Width>1</Width>
+  <Height>1</Height>
+  <Tiles>
+    <string>.</string>
+  </Tiles>
+  <Score>
+    <MeilleurScore>8365</MeilleurScore>
+    <ScoreForA>6000</ScoreForA>
+    <ScoreForB>5000</ScoreForB>
+    <ScoreForC>4000</ScoreForC>
+    <ScoreForD>3000</ScoreForD>
+    <ScoreForE>1000</ScoreForE>
+    <LastLetter>69</LastLetter>
+  </Score>
+</LevelData>
